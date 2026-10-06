@@ -4,5 +4,3 @@ Now i start coding
 
 Hlooo
 
-
-d dc
